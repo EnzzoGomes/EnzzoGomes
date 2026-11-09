@@ -18,7 +18,7 @@ Construo sistemas que transformam dados e processos manuais em decisões, de pip
 | **Estufa + Power BI** | Pipeline IoT com mais de 47 mil leituras de sensores e médias de 15 minutos enviadas ao Power BI, sem custo de infraestrutura. | Python, PHP, MySQL, Power BI, GitHub Actions | [Código](https://github.com/EnzzoGomes/estufa-powerbi) · [Painel](https://estufa.freedev.app) |
 | **Mission Market** | Marketplace de tarefas e serviços locais, com autenticação e níveis de usuário. | Next.js, TypeScript, Supabase | [Código](https://github.com/EnzzoGomes/projeto-app) · [Demo](https://projeto-app-gamma.vercel.app) |
 | **conecta.uniso** | Plataforma de cursos com área do aluno, painel administrativo, quizzes e certificados. | JavaScript | [Código](https://github.com/EnzzoGomes/site-letramento) · [Demo](https://site-letramento.vercel.app) |
-| **AI English Tutor** | Tutor de inglês com IA, com plano de estudos e simulação de conversas. | LLM, TypeScript | [Página](https://github.com/EnzzoGomes/ai-english-tutor) · [Demo](https://huggingface.co/spaces/Enzzozink/tutor-ingles-ia) |
+| **AI English Tutor** | Tutor de inglês com IA, com plano de estudos e simulação de conversas. | Python, Flask, LLM (Groq), React, TypeScript | [Código](https://github.com/EnzzoGomes/ai-english-tutor) · [Demo](https://huggingface.co/spaces/Enzzozink/tutor-ingles-ia) |
 
 ## Stack
 
